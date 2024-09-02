@@ -211,17 +211,8 @@ Solution: The proposed project solves this problem by introducing a decentralize
 
 -   ### **Deployment Addresses**
 
-| <b><u>Contract</u></b>   | <b><u>Celo Testnet</u></b>                           | <b><u>Celo Testnet</u></b>                           |
+| <b><u>Contract</u></b>   | <b><u>Celo Testnet</u></b>                           | <b><u>Avalanche Testnet</u></b>                           |
 | :----------------------- | :--------------------------------------------------- | :--------------------------------------------------- |
 | **`Factory`**            |                                                      |                                                      |
 | **`Router`**             |                                                      |                                                      |
 | **`Index`**              |                                                      |                                                      |
-
--   ### **Transactions**
-
-| <b><u>Contract</u></b>   | <b><u>Celo Testnet</u></b>                           | <b><u>Celo Testnet</u></b>                           |
-| :----------------------- | :--------------------------------------------------- | :--------------------------------------------------- |
-| **`Index Deployment`**   |                                                      |                                                      |
-| **`Invest function`**    |                                                      |                                                      |
-| **`Redeem`**             |                                                      |                                                      |
-| **`replace Asset`**      |                                                      |                                                      |
