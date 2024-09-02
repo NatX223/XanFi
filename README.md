@@ -205,14 +205,4 @@ Solution: The proposed project solves this problem by introducing a decentralize
         IERC20(receivedTokens[0].tokenAddress).approve(dexRouterAddress, receivedTokens[0].amount);
         dexRouter(dexRouterAddress).swapExactTokens(address(this), receivedTokens[0].amount, IERC20(receivedTokens[0].tokenAddress), IERC20(assetContract));
     }
-    ```
-    
-> ## Deployment
-
--   ### **Deployment Addresses**
-
-| <b><u>Contract</u></b>   | <b><u>Celo Testnet</u></b>                           | <b><u>Avalanche Testnet</u></b>                           |
-| :----------------------- | :--------------------------------------------------- | :--------------------------------------------------- |
-| **`Factory`**            |  0xc9B7979f7895676d4441F0dA619033ec896c6257                                                    |                                                      |
-| **`Router`**             |                                                      |                                                      |
-| **`Migrator`**           |                                                      |                                                      |
+    ```                                                          
